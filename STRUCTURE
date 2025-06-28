@@ -1,0 +1,26 @@
+📂 github.com/MoussaNiang/
+├── README.md                  <-- Présentation globale (ton profil GitHub)
+├── 📁 BigData-Master2/        <-- Dossier racine pour ton master 2
+│   ├── README.md
+│   ├── 📁 Bloc1-PySpark/
+│   │   ├── notebook.ipynb
+│   │   └── data/
+│   ├── 📁 Bloc2-Kafka/
+│   │   └── ...
+│   ├── 📁 Bloc3-Elasticsearch/
+│   │   └── ...
+│   └── 📁 Bloc4-Airflow/
+│       └── ...
+├── 📁 IA-Agriculture/
+│   ├── CNN_Sentinel2_Riz.ipynb
+│   ├── ANSAT-Pipeline-Kafka-Spark.ipynb
+│   └── README.md
+├── 📁 CyberSec-IA/
+│   ├── Forensic-PyTorch-Logs.ipynb
+│   └── README.md
+├── 📁 Vision-par-Ordinateur/
+│   ├── CNN_de_base.ipynb
+│   ├── TP_Images_Filtres.ipynb
+│   └── README.md
+└── 📁 Archives-Projets-Personnels/
+    └── ...
